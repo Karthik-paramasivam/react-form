@@ -1,0 +1,28 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  max-width: 30rem;
+  margin: 2rem auto;
+  gap: 0.5rem;
+  background-color: white;
+  padding: 2rem;
+}
+input{
+  padding:10px;
+  font-size: 15px;
+  border: 1px solid #808080;
+}
+body{
+  background-color: #808080;
+}
+select{
+  padding:10px;
+  font-size: 15px;
+  border: 1px solid #808080;
+}
+span{
+  color:red;
+}
+.color{
+  color:red;
+}
